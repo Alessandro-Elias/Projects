@@ -13,7 +13,7 @@ require_once '../back/connect.php';
     <link rel="stylesheet" href="./style/style.css">
 </head>
 <body>
-    <p><a href="./add.php" class="btn_add"> adicionar ao banco de dados</a></p>
+    <p><a href="./add.php" class="btn_add"> adicionar ao banco de dados denovo</a></p>
     <script> x = <?php  print $dado;        ?>  </script>
 
     <?php
