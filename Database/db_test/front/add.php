@@ -26,7 +26,7 @@
                 echo("inserção executada");
             }
             else{
-                echo("nigga cat: " . $mysqli->connect_error);
+                echo("inserção falhou: " . $mysqli->connect_error);
 
             }
 
